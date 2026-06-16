@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>GestionIdentite.Client</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Permet d'heberger des Controllers ASP.NET Core dans une bibliotheque de classes. -->
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- La couche Client depend uniquement de la couche Application. -->
+    <ProjectReference Include="..\GestionIdentite.Application\GestionIdentite.Application.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/bin/Debug/net10.0/GestionIdentite.Domaine.deps.json
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/bin/Debug/net10.0/GestionIdentite.Domaine.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/bin/Debug/net10.0/GestionIdentite.Domaine.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/obj/Debug/net10.0/GestionIdentite.Domaine.GeneratedMSBuildEditorConfig.editorconfig
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/obj/Debug/net10.0/GestionIdentite.Domaine.AssemblyInfoInputs.cache
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/obj/Debug/net10.0/GestionIdentite.Domaine.AssemblyInfo.cs
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/obj/Debug/net10.0/GestionIdentite.Domaine.csproj.CoreCompileInputs.cache
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/obj/Debug/net10.0/GestionIdentite.Domaine.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/obj/Debug/net10.0/refint/GestionIdentite.Domaine.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/obj/Debug/net10.0/GestionIdentite.Domaine.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Domaine/obj/Debug/net10.0/ref/GestionIdentite.Domaine.dll

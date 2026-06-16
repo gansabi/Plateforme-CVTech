@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>GestionIdentite.Domaine</RootNamespace>
+  </PropertyGroup>
+
+  <!--
+    Couche Domaine : aucune dependance externe (ni Entity Framework, ni Dapper,
+    ni HttpClient, ni ILogger). Cf. .agent/skills/architecture-monolithe.md
+  -->
+
+</Project>

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>ActualiteEtAbonnement.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ActualiteEtAbonnement.Domaine\ActualiteEtAbonnement.Domaine.csproj" />
+    <ProjectReference Include="..\..\GestionIdentite\GestionIdentite.Domaine\GestionIdentite.Domaine.csproj" />
+    <ProjectReference Include="..\..\CatalogueEmploi\CatalogueEmploi.Domaine\CatalogueEmploi.Domaine.csproj" />
+    <ProjectReference Include="..\..\AppelOffreFreelance\AppelOffreFreelance.Domaine\AppelOffreFreelance.Domaine.csproj" />
+  </ItemGroup>
+
+</Project>

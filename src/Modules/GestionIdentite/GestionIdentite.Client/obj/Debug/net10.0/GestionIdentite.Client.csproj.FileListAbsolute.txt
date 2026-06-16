@@ -1,0 +1,17 @@
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/bin/Debug/net10.0/GestionIdentite.Client.deps.json
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/bin/Debug/net10.0/GestionIdentite.Client.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/bin/Debug/net10.0/GestionIdentite.Client.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/bin/Debug/net10.0/GestionIdentite.Application.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/bin/Debug/net10.0/GestionIdentite.Domaine.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/bin/Debug/net10.0/GestionIdentite.Application.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/bin/Debug/net10.0/GestionIdentite.Domaine.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/GestionIdentite.Client.csproj.AssemblyReference.cache
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/GestionIdentite.Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/GestionIdentite.Client.AssemblyInfoInputs.cache
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/GestionIdentite.Client.AssemblyInfo.cs
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/GestionIdentite.Client.csproj.CoreCompileInputs.cache
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/GestionI.39A5AFB2.Up2Date
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/GestionIdentite.Client.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/refint/GestionIdentite.Client.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/GestionIdentite.Client.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/GestionIdentite/GestionIdentite.Client/obj/Debug/net10.0/ref/GestionIdentite.Client.dll

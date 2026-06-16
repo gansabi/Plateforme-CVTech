@@ -1,0 +1,17 @@
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/bin/Debug/net10.0/AppelOffreFreelance.Application.deps.json
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/bin/Debug/net10.0/AppelOffreFreelance.Application.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/bin/Debug/net10.0/AppelOffreFreelance.Application.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/bin/Debug/net10.0/AppelOffreFreelance.Domaine.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/bin/Debug/net10.0/GestionIdentite.Domaine.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/bin/Debug/net10.0/AppelOffreFreelance.Domaine.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/bin/Debug/net10.0/GestionIdentite.Domaine.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/AppelOffreFreelance.Application.csproj.AssemblyReference.cache
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/AppelOffreFreelance.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/AppelOffreFreelance.Application.AssemblyInfoInputs.cache
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/AppelOffreFreelance.Application.AssemblyInfo.cs
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/AppelOffreFreelance.Application.csproj.CoreCompileInputs.cache
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/AppelOff.C1BE583F.Up2Date
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/AppelOffreFreelance.Application.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/refint/AppelOffreFreelance.Application.dll
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/AppelOffreFreelance.Application.pdb
+/home/hs4sure/Documents/dev-pour-cloud/Plateforme-CVTech/src/Modules/AppelOffreFreelance/AppelOffreFreelance.Application/obj/Debug/net10.0/ref/AppelOffreFreelance.Application.dll
