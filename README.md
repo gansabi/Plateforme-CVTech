@@ -10,9 +10,6 @@ Monolithe modulaire .NET 10 — Job board, marketplace freelance et fil d'actual
 
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
-- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) (uniquement pour le développement local sans Docker)
-- [Node.js 18+](https://nodejs.org/) (uniquement pour le développement local sans Docker)
-- [npm](https://www.npmjs.com/) (inclus avec Node.js)
 
 ### Installation
 
