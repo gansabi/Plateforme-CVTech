@@ -28,6 +28,7 @@ import { Abonnements } from '../../modules/actualite-abonnement/pages/Abonnement
 
 // Shared
 import { Dashboard } from '../../shared/components/Dashboard'
+import { Accueil } from '../../shared/components/Accueil'
 
 function RedirectSiConnecte({ children }: { children: React.ReactNode }) {
   const { estConnecte } = useAuth()
@@ -50,7 +51,7 @@ export function AppRouter() {
       <Routes>
         <Route element={<MainLayout />}>
           {/* Public */}
-          <Route path="/" element={<Annonces />} />
+          <Route path="/" element={<Accueil />} />
           <Route path="/annonces" element={<Annonces />} />
           <Route path="/appels-offre" element={<AppelsOffre />} />
           <Route path="/actualites" element={<Actualites />} />

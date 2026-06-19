@@ -48,28 +48,42 @@ export function AppelsOffre() {
     }
   }
 
-  if (isLoading) return <p className="p-8">Chargement...</p>
+  if (isLoading) return <p className="p-8 text-gray-500">Chargement...</p>
 
   return (
     <div className="p-8 max-w-4xl mx-auto">
-      <h1 className="text-2xl font-bold mb-6">Appels d'offre freelance</h1>
-      {message && <p className="mb-4 p-3 bg-green-50 text-green-700 rounded">{message}</p>}
-      {data?.appelsOffre.length === 0 && <p className="text-gray-500">Aucun appel d'offre pour le moment.</p>}
+      <div className="mb-8">
+        <h1 className="text-2xl font-bold text-gray-900">Appels d'offre freelance</h1>
+        <p className="text-sm text-gray-500 mt-1">{data?.appelsOffre.length ?? 0} mission(s) disponible(s)</p>
+      </div>
+      {message && <p className="mb-4 p-3 bg-green-50 border border-green-200 text-green-700 rounded-lg">{message}</p>}
+      {data?.appelsOffre.length === 0 && (
+        <div className="text-center py-12">
+          <p className="text-gray-400 text-lg">Aucun appel d'offre pour le moment</p>
+        </div>
+      )}
       <div className="space-y-4">
         {data?.appelsOffre.map(ao => (
-          <div key={ao.id} className="border rounded-lg p-4 bg-white shadow-sm">
+          <div key={ao.id} className="border border-gray-200 rounded-xl p-5 bg-white hover:shadow-md transition-shadow">
             <div className="flex justify-between items-start">
-              <div>
-                <h2 className="text-lg font-semibold">{ao.titre}</h2>
-                <p className="text-sm text-gray-600">{ao.domaineMetier} · {ao.tjmMinimum}–{ao.tjmMaximum} €/jour</p>
-                <p className="text-xs text-gray-400 mt-1">
-                  Limite : {new Date(ao.dateLimite).toLocaleDateString('fr-FR')}
+              <div className="space-y-2">
+                <h2 className="text-lg font-semibold text-gray-900">{ao.titre}</h2>
+                <div className="flex items-center gap-2 flex-wrap">
+                  <span className="text-xs font-medium px-2.5 py-0.5 rounded-full bg-indigo-50 text-indigo-700">
+                    {ao.domaineMetier}
+                  </span>
+                  <span className="text-xs font-medium px-2.5 py-0.5 rounded-full bg-emerald-50 text-emerald-700">
+                    {ao.tjmMinimum}–{ao.tjmMaximum} €/jour
+                  </span>
+                </div>
+                <p className="text-xs text-gray-400">
+                  Date limite : {new Date(ao.dateLimite).toLocaleDateString('fr-FR')}
                 </p>
               </div>
               {estConnecte && role === 'Candidat' && (
                 <button onClick={() => handleSoumettre(ao.id)}
                   disabled={soumissionEnCours === ao.id}
-                  className="bg-green-600 text-white px-4 py-2 rounded text-sm hover:bg-green-700 disabled:opacity-50">
+                  className="bg-emerald-600 text-white px-5 py-2 rounded-lg text-sm font-medium hover:bg-emerald-700 disabled:opacity-50 transition-colors">
                   {soumissionEnCours === ao.id ? '...' : 'Proposer'}
                 </button>
               )}

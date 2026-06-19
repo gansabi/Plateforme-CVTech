@@ -236,5 +236,3 @@ dotnet test backend/PlateformeCVTech.sln
 | architecture-monolithe.md | Structure 5 couches, isolation modules, événements |
 | regles-permissions.md | Vérification obligatoire, matrice par rôle |
 | regles-tdd.md | Cycle TDD, nommage français, couverture |
-| cvtech-frontend-guard.md | Architecture React, interdictions |
-| cvtech-db-guard.md | Stratégie BDD multi-environnement |
