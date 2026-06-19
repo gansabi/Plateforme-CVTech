@@ -72,6 +72,27 @@ Le marché du travail tech est fragmenté. Plateforme-CVTech réunit sur un seul
 
 ---
 
+## Arborescence du projet
+
+```
+Plateforme-CVTech/
+├── docker-compose.yml          # PostgreSQL + Backend + Frontend
+├── .env.example                # Variables d'environnement
+├── .agent/skills/              # Règles IA (5 fichiers)
+│
+├── backend/                    # .NET 10 — API REST
+│   ├── src/Host/               # Point d'entrée (Program.cs, Seed, Config)
+│   ├── src/Modules/            # 4 modules métier (5 couches chacun)
+│   └── tests/Modules/          # 327 tests unitaires
+│
+└── frontend/                   # React 18 + TypeScript + Tailwind
+    ├── src/app/                # Router, Auth, Layout
+    ├── src/modules/            # Pages par module métier
+    └── src/shared/             # API client, composants partagés
+```
+
+---
+
 ## Architecture
 
 ```mermaid
