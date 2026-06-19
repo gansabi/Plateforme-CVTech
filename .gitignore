@@ -1,0 +1,32 @@
+# Build outputs
+**/bin/
+**/obj/
+**/dist/
+backend/src/Host/publish/
+backend/src/Host/deploy.zip
+
+# SQLite databases (local dev data — never commit)
+backend/data/*.db
+backend/data/*.db-shm
+backend/data/*.db-wal
+
+# Environment variables (secrets)
+.env
+
+# Node
+frontend/node_modules/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sujet TP (ne pas versionner)
+README 3.md
+README 3.pdf
+
+.vscode/settings.json
