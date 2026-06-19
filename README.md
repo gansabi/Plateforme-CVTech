@@ -52,6 +52,16 @@ docker compose up --build
 
 ---
 
+## Tests
+
+```bash
+# Exécuter tous les tests (327 tests, 0 échec)
+dotnet test backend/PlateformeCVTech.sln
+
+327 tests, 0 échec. Les tests utilisent EF Core InMemory (pas de PostgreSQL requis).
+
+---
+
 ## Présentation
 
 Le marché du travail tech est fragmenté. Plateforme-CVTech réunit sur un seul site :
@@ -156,15 +166,6 @@ FRONT_PORT=8080
 
 ---
 
-## Tests
-
-```bash
-dotnet test backend/PlateformeCVTech.sln
-```
-
-324 tests, 0 échec. Les tests utilisent EF Core InMemory (pas de PostgreSQL requis).
-
----
 
 ## API — Endpoints
 
